@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Press Start 2P', cursive;
+}
+
+html {
+  background-color: #222;
+  color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+  background-color: lightgray;
+}
+
+/* your CSS below! */
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
